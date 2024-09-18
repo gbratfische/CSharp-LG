@@ -1,0 +1,8 @@
+C:\Users\2880972323010\source\repos\banco01\banco01\bin\Debug\banco01.exe.config
+C:\Users\2880972323010\source\repos\banco01\banco01\bin\Debug\banco01.exe
+C:\Users\2880972323010\source\repos\banco01\banco01\bin\Debug\banco01.pdb
+C:\Users\2880972323010\source\repos\banco01\banco01\obj\Debug\banco01.csproj.AssemblyReference.cache
+C:\Users\2880972323010\source\repos\banco01\banco01\obj\Debug\banco01.csproj.SuggestedBindingRedirects.cache
+C:\Users\2880972323010\source\repos\banco01\banco01\obj\Debug\banco01.csproj.CoreCompileInputs.cache
+C:\Users\2880972323010\source\repos\banco01\banco01\obj\Debug\banco01.exe
+C:\Users\2880972323010\source\repos\banco01\banco01\obj\Debug\banco01.pdb
