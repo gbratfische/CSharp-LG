@@ -1,0 +1,8 @@
+C:\Users\2880972323010\source\repos\associacao01\associacao01\bin\Debug\associacao01.exe.config
+C:\Users\2880972323010\source\repos\associacao01\associacao01\bin\Debug\associacao01.exe
+C:\Users\2880972323010\source\repos\associacao01\associacao01\bin\Debug\associacao01.pdb
+C:\Users\2880972323010\source\repos\associacao01\associacao01\obj\Debug\associacao01.csproj.AssemblyReference.cache
+C:\Users\2880972323010\source\repos\associacao01\associacao01\obj\Debug\associacao01.csproj.SuggestedBindingRedirects.cache
+C:\Users\2880972323010\source\repos\associacao01\associacao01\obj\Debug\associacao01.csproj.CoreCompileInputs.cache
+C:\Users\2880972323010\source\repos\associacao01\associacao01\obj\Debug\associacao01.exe
+C:\Users\2880972323010\source\repos\associacao01\associacao01\obj\Debug\associacao01.pdb
