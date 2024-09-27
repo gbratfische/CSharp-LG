@@ -1,0 +1,8 @@
+C:\Users\2880972323010\source\repos\equipesf1\equipesf1\bin\Debug\equipesf1.exe.config
+C:\Users\2880972323010\source\repos\equipesf1\equipesf1\bin\Debug\equipesf1.exe
+C:\Users\2880972323010\source\repos\equipesf1\equipesf1\bin\Debug\equipesf1.pdb
+C:\Users\2880972323010\source\repos\equipesf1\equipesf1\obj\Debug\equipesf1.csproj.AssemblyReference.cache
+C:\Users\2880972323010\source\repos\equipesf1\equipesf1\obj\Debug\equipesf1.csproj.SuggestedBindingRedirects.cache
+C:\Users\2880972323010\source\repos\equipesf1\equipesf1\obj\Debug\equipesf1.csproj.CoreCompileInputs.cache
+C:\Users\2880972323010\source\repos\equipesf1\equipesf1\obj\Debug\equipesf1.exe
+C:\Users\2880972323010\source\repos\equipesf1\equipesf1\obj\Debug\equipesf1.pdb
