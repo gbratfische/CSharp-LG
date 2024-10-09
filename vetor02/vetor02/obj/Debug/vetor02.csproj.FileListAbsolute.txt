@@ -1,0 +1,8 @@
+C:\Users\2880972323010\source\repos\vetor02\vetor02\bin\Debug\vetor02.exe.config
+C:\Users\2880972323010\source\repos\vetor02\vetor02\bin\Debug\vetor02.exe
+C:\Users\2880972323010\source\repos\vetor02\vetor02\bin\Debug\vetor02.pdb
+C:\Users\2880972323010\source\repos\vetor02\vetor02\obj\Debug\vetor02.csproj.AssemblyReference.cache
+C:\Users\2880972323010\source\repos\vetor02\vetor02\obj\Debug\vetor02.csproj.SuggestedBindingRedirects.cache
+C:\Users\2880972323010\source\repos\vetor02\vetor02\obj\Debug\vetor02.csproj.CoreCompileInputs.cache
+C:\Users\2880972323010\source\repos\vetor02\vetor02\obj\Debug\vetor02.exe
+C:\Users\2880972323010\source\repos\vetor02\vetor02\obj\Debug\vetor02.pdb
